@@ -1,0 +1,11 @@
+C:\Users\Maximilian.Pewny\source\repos\CircularBuffer\CircularBuffer\bin\Debug\netcoreapp3.1\CircularBuffer.exe
+C:\Users\Maximilian.Pewny\source\repos\CircularBuffer\CircularBuffer\bin\Debug\netcoreapp3.1\CircularBuffer.deps.json
+C:\Users\Maximilian.Pewny\source\repos\CircularBuffer\CircularBuffer\bin\Debug\netcoreapp3.1\CircularBuffer.runtimeconfig.json
+C:\Users\Maximilian.Pewny\source\repos\CircularBuffer\CircularBuffer\bin\Debug\netcoreapp3.1\CircularBuffer.runtimeconfig.dev.json
+C:\Users\Maximilian.Pewny\source\repos\CircularBuffer\CircularBuffer\bin\Debug\netcoreapp3.1\CircularBuffer.dll
+C:\Users\Maximilian.Pewny\source\repos\CircularBuffer\CircularBuffer\bin\Debug\netcoreapp3.1\CircularBuffer.pdb
+C:\Users\Maximilian.Pewny\source\repos\CircularBuffer\CircularBuffer\obj\Debug\netcoreapp3.1\CircularBuffer.csprojAssemblyReference.cache
+C:\Users\Maximilian.Pewny\source\repos\CircularBuffer\CircularBuffer\obj\Debug\netcoreapp3.1\CircularBuffer.AssemblyInfoInputs.cache
+C:\Users\Maximilian.Pewny\source\repos\CircularBuffer\CircularBuffer\obj\Debug\netcoreapp3.1\CircularBuffer.AssemblyInfo.cs
+C:\Users\Maximilian.Pewny\source\repos\CircularBuffer\CircularBuffer\obj\Debug\netcoreapp3.1\CircularBuffer.dll
+C:\Users\Maximilian.Pewny\source\repos\CircularBuffer\CircularBuffer\obj\Debug\netcoreapp3.1\CircularBuffer.pdb
